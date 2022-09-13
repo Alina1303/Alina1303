@@ -14,12 +14,11 @@
 </p>
 
 <h3 align="left">My activity</h3>
-<p align="left">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alina1303&theme=default&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alina1303&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alina1303)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">My rank on Codewars</h3>
-[![codewars](https://www.codewars.com/users/Alina1303/badges/large)](https://www.codewars.com/users/Alina1303)  
+[![codewars](https://www.codewars.com/users/Alina1303/badges/large)](https://www.codewars.com/users/Alina1303)   
+ 
