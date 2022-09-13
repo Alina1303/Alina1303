@@ -5,4 +5,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alina1303)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![codewars](https://www.codewars.com/users/Alina1303)]  
+[![codewars](https://www.codewars.com/users/Alina1303)](https://www.codewars.com/users/Alina1303)   
