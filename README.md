@@ -16,7 +16,6 @@
 <h3 align="left">My activity</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alina1303&theme=default&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alina1303&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alina1303)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -24,8 +23,4 @@
 
 [![codewars](https://www.codewars.com/users/Alina1303/badges/large)](https://www.codewars.com/users/Alina1303)   
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alina1303&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alina1303&theme=solarized_dark)
  
