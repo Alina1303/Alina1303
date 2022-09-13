@@ -4,3 +4,5 @@
 <h3 align="center">I'm from Russia </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alina1303)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![codewars](https://www.codewars.com/users/Alina1303)]  
