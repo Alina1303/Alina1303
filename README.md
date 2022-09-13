@@ -23,4 +23,9 @@
 <h3 align="left">My rank on Codewars</h3>
 
 [![codewars](https://www.codewars.com/users/Alina1303/badges/large)](https://www.codewars.com/users/Alina1303)   
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alina1303&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alina1303&theme=solarized_dark)
  
